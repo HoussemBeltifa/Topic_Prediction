@@ -1,0 +1,7 @@
+streamlit-aggrid
+streamlit_extras
+torchvision
+torch
+streamlit
+pickle5
+nltk
